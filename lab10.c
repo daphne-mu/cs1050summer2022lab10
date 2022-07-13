@@ -15,7 +15,7 @@
 "\"\n\n\t- Martin Luther King Jr."
 
 // Prototypes
-void Encrypt(char *in, int displacement);
+void Encrypt(char *s, int displacement);
 
 // Main
 int main(void)
