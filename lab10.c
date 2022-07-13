@@ -10,9 +10,9 @@
 
 // Symbolic Constants
 #define CLEARTEXT \
-"It's Christmastime in Washington\a\nThe Democrats rehearsed \b\n"\
-"Gettin' into gear for four more years\nThings not gettin' worse"\
-"\"\\\?\n\n\t\t- Steve Earle"
+"We may have all come on different ships\b\n"\
+"But we're in the same boat now"\
+"\"\n\n\t- Martin Luther King Jr."
 
 // Prototypes
 void Encrypt(char *in, int displacement);
